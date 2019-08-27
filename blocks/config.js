@@ -1,6 +1,6 @@
 module.exports = [
     {
-        name: "photo_resistor_block",
+        name: "KY-018 PHOTORESISTOR MODULE",
         blocks: [
             {
                 xml:
